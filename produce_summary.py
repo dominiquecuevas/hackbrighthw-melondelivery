@@ -1,5 +1,5 @@
 def print_delivery_report(day, daily_file):
-    """ Prints delivery report 
+    """ Prints delivery report from daily files as sentences
     """
     print("Day", day)
     the_file = open(daily_file) # open daily text data file to use in python
